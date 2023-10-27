@@ -1,0 +1,9 @@
+git status - displays any changes since last commit
+
+git add <file> - adds a file specified
+git add . - adds all files that have been changed
+
+git commit -m <Message> - commits your changes
+git commit -m "Changed git_commands.txt"
+
+git push - pushes the changes
